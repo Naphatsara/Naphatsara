@@ -10,7 +10,7 @@ First Class Honors (GPA 3.65)
 ## 🔸Project Experience
 #### 🔹AJCC conference (2023)
 - My dissertation has the opportunity to attend The Asia Joint Conference on Computing (AJCC) 2023 and received The Best Presentation in english.
-- link https://www.cp.su.ac.th/news/%E0%B8%82%E0%B8%AD%E0%B9%81%E0%B8%AA%E0%B8%94%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A2%E0%B8%B4%E0%B8%99%E0%B8%94%E0%B8%B5%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%A9%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%A7%E0%B8%B1%E0%B8%A5-The-Best-Presentation-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%B2%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4-AJCC-2023
+- link https://www.facebook.com/cpsilpakorn/posts/pfbid0FPqxMkkcwhjrCwtmghUU4LuYwjP7hfhxQUpKrwvakBG1vYqoQSFaocAkhaXefYgml
 
 
 ### 🔹Dissertation (2022-2023)

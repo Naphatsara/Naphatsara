@@ -19,7 +19,7 @@ First Class Honors (GPA 3.65)
 - Create an environmental sound classification model using Convolutional Neural Network (CNN).
 - Design API functionality in the interface between the model part and the user interface.
 - Test the program (check and fix errors).
-- link https://github.com/somchx/ESText
+- link https://es-text-somchx.vercel.app/Home , https://github.com/somchx/ESText
 
 ### 🔹Term Project (2021-2022)
 #### Chest X-Ray Classification Model (2022)
@@ -32,7 +32,7 @@ First Class Honors (GPA 3.65)
 
 #### MBTI suggest Application (2021)
 - Gather data, Design and develop an MBTI suggest application.
-- link mbti-suggest.vercel.app
+- link https://mbti-suggest.vercel.app/
 
 #### Subset Sum Problem solving Program by Backtracking and Branch and Bound Methods (2021)
 - Write a backtracking algorithm to get the results of subset sum in depth first search and write a branch and bound algorithm to get the results of subset sum in least cost search.

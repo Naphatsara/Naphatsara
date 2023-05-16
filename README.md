@@ -8,7 +8,7 @@ Silpakorn University
 First Class Honors (GPA 3.65)
 
 ## 🔸Project Experience
-#### 🔹AJCC conference (2023)
+### 🔹AJCC conference (2023)
 - My dissertation has the opportunity to attend The Asia Joint Conference on Computing (AJCC) 2023 and received The Best Presentation in english.
 - link https://www.facebook.com/cpsilpakorn/posts/pfbid0FPqxMkkcwhjrCwtmghUU4LuYwjP7hfhxQUpKrwvakBG1vYqoQSFaocAkhaXefYgml
 

@@ -7,6 +7,20 @@ Bachelor of Science (Computer Science)
 Silpakorn University
 First Class Honors (GPA 3.65)
 
+## 🔸Technical Skills
+- Proficient in Machine Learning
+- Able to develop programs from the following languages:
+  - C++ (beginner)
+  - Java (basic)
+  - Python (basic)
+  - Dart (basic)
+- Able to use these libraries:
+  - TensorFlow
+  - Keras
+  - Scikit-learn
+  - Librosa
+  - Matplotlib
+
 ## 🔸Project Experience
 ### 🔹AJCC conference (2023)
 - My dissertation has the opportunity to attend The Asia Joint Conference on Computing (AJCC) 2023 and received The Best Presentation in english.

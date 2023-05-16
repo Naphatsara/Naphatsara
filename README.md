@@ -3,9 +3,7 @@ A fresh graduate in Computer Science with experience in many project work. Skill
 data analysis, problem solving and programming. 
 
 ## 🔸Education
-Bachelor of Science (Computer Science)
-Silpakorn University
-First Class Honors (GPA 3.65)
+Bachelor of Science (Computer Science) at Silpakorn University with First Class Honors (GPA 3.65)
 
 ## 🔸Technical Skills
 - Proficient in Machine Learning

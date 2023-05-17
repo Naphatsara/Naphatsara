@@ -8,7 +8,7 @@ Bachelor of Science (Computer Science) at Silpakorn University with First Class 
 ## 🔸Technical Skills
 - Proficient in Machine Learning
 - Able to develop programs from the following languages:
-  - C++ (beginner)
+  - C (basic)
   - Java (basic)
   - Python (basic)
   - Dart (basic)
